@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rendon/static/css/main.f3c574cc.chunk.css",
+    "main.js": "/rendon/static/js/main.232a990c.chunk.js",
+    "main.js.map": "/rendon/static/js/main.232a990c.chunk.js.map",
+    "runtime-main.js": "/rendon/static/js/runtime-main.1aebd405.js",
+    "runtime-main.js.map": "/rendon/static/js/runtime-main.1aebd405.js.map",
+    "static/js/2.2bfd67aa.chunk.js": "/rendon/static/js/2.2bfd67aa.chunk.js",
+    "static/js/2.2bfd67aa.chunk.js.map": "/rendon/static/js/2.2bfd67aa.chunk.js.map",
+    "index.html": "/rendon/index.html",
+    "precache-manifest.e5e3a20f736ae420259d33d06c88c9cb.js": "/rendon/precache-manifest.e5e3a20f736ae420259d33d06c88c9cb.js",
+    "service-worker.js": "/rendon/service-worker.js",
+    "static/css/main.f3c574cc.chunk.css.map": "/rendon/static/css/main.f3c574cc.chunk.css.map",
+    "static/js/2.2bfd67aa.chunk.js.LICENSE.txt": "/rendon/static/js/2.2bfd67aa.chunk.js.LICENSE.txt",
+    "static/media/logo_m.png": "/rendon/static/media/logo_m.e2bc8e57.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aebd405.js",
+    "static/js/2.2bfd67aa.chunk.js",
+    "static/css/main.f3c574cc.chunk.css",
+    "static/js/main.232a990c.chunk.js"
+  ]
+}
